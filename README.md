@@ -87,7 +87,7 @@ AutoVault/
 │   ├── services/        # API and Firebase services
 │   ├── utils/           # Utility functions
 │   ├── App.tsx          # Main App component
-���   ├── main.tsx         # Entry point
+│   ├── main.tsx         # Entry point
 │   └── index.css        # Global styles
 ├── public/              # Static assets
 ├── index.html           # HTML template
@@ -173,6 +173,13 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 💬 Support
 
 For support, email support@autovault.io or open an issue on GitHub.
+
+## 🧾 Business details
+
+- Business name: Jessica Bright
+- ABN: 59 726 146 692
+- Website: https://justbeyou.com.au
+- Domain: justbeyou.com.au
 
 ## 🙏 Acknowledgments
 
